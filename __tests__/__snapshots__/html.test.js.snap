@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`html returns vnode 1`] = `"<div>Hello World</div>"`;
+
+exports[`html suports custom directives 1`] = `"<div>Hello World</div>"`;
+
+exports[`html supports Fragment 1`] = `
+"<div>Hello World</div>
+<div>Hello World</div>"
+`;
+
+exports[`html supports custom components 1`] = `"<div>Hello World</div>"`;
+
+exports[`html supports v-show 1`] = `"<div style=\\"display: none;\\">Hello World</div>"`;
